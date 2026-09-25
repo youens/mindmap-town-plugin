@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mindmap-town": {
+      "type": "http",
+      "url": "https://mindmap.town/mcp"
+    }
+  }
+}

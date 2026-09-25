@@ -1,0 +1,15 @@
+{
+  "name": "mindmap-town",
+  "displayName": "MindMap.Town",
+  "version": "1.0.0",
+  "description": "Turn any idea into a colorful mind map you can open and edit. Claude draws the map right in the chat, and one click opens it in the free MindMap.Town editor to rearrange, recolor, and share.",
+  "author": {
+    "name": "Justin Youens",
+    "email": "hello@mindmap.town",
+    "url": "https://mindmap.town"
+  },
+  "homepage": "https://mindmap.town/agent",
+  "repository": "https://github.com/youens/mindmap-town-plugin",
+  "license": "MIT",
+  "keywords": ["mind map", "brainstorm", "outline", "planning", "notes", "checklist"]
+}
